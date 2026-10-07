@@ -29,6 +29,6 @@ Consultar: http://localhost:8080/api/info
 .\mvnw.cmd test
 ```
 
-## Autora
+## Nombre
 
 Noelia Mendoza
